@@ -1,2 +1,3 @@
-ссылка на доску в kaiten
-https://rustykc.kaiten.ru/space/354045?focus=board&focusId=828340
+задание: создать доску в kaiten и описать последовательность действий организации мероприятия (праздника, проекта и т.д.)
+
+пример выполнения:    https://rustykc.kaiten.ru/space/354045?focus=board&focusId=828340
